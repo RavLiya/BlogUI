@@ -1,4 +1,5 @@
 import { useState } from "react";
+import './PostAdd.css';
 
 export default function PostAdd(props){
     
